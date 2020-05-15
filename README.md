@@ -1,1 +1,1 @@
-# OneAPI-solving-seismic-data-convolution
+# A TBB+OneAPI approach to solve seismic data convolution.
